@@ -1,9 +1,0 @@
-transformers
-datasets
-peft
-accelerate
-scipy
-torch
-
-bitsandbytes
-trl
